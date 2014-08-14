@@ -18,5 +18,11 @@
   "homepage": "https://github.com/Adron/hapi_sample",
   "dependencies": {
     "hapi": "^6.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4",
+    "superagent": "^0.18.2",
+    "supertest": "^0.13.0"
   }
 }
